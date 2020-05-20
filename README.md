@@ -144,7 +144,7 @@ Respuesta 6
       list1.pop(0)    
       for i in range(len(list1)):
         print(list1[i], end=' ') 
---
+---
 Respuesta 8
 ==
    El  script esta escrito  en python  por lo tanto en un compilador de java si encontrarias un error. en cambio siempre y cuando se ejecute en un compilador de python no tendria ningun errorya que esta bien escrito en ese lenguaje.para obtener el siguiente resultado hay que hacer esto:
@@ -152,7 +152,7 @@ Respuesta 8
      for i in range(5):
         print(i)
     print('listo!')
---
+---
 Respuesta 9
 ==
     def dataEstudiante(nombre, edad):
@@ -160,7 +160,7 @@ Respuesta 9
     def mostrarEstudiante(nombre,edad):
         dataEstudiante(nombre,edad)
     mostrarEstudiante('victor',36)
---
+---
 Respuesta 10
 ==
  La Funcion:
@@ -212,7 +212,7 @@ Respuesta 11
            print (nc)
 
         mixstring('Argentina','Uruguay');
---
+---
 Respuesta 12
 ==
     miCadena="“acoltrapersobrabilacodaNaNy!";
@@ -263,11 +263,11 @@ Respuesta 12
          print('Caracter: ',(nc[k]),' = ',(cant[k]),)
          print(' ')
    
---
+---
 Respuesta 12
 ==
 -No realizada
 
---
+---
 
   cualquier consulta por via emai.
