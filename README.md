@@ -270,4 +270,4 @@ Respuesta 12
 
 ---
 
-  cualquier consulta por via emai.
+  cualquier consulta por via email.
